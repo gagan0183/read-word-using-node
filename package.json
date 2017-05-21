@@ -9,6 +9,8 @@
   "author": "Gagan",
   "license": "ISC",
   "dependencies": {
+    "request": "^2.81.0",
+    "sync-request": "^4.0.3",
     "textract": "^2.1.2"
   }
 }
