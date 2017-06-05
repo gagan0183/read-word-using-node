@@ -1,204 +1,203 @@
 cloudu certification 
 Alison certification - how internet works 
-oops level 1 - ranksheet 
-programming level 1 - ranksheet 
-core java level 1 - ranksheet 
-computer technology basics level 1 - ranksheet 
-oracle 9i sql level 1 - ranksheet 
-html level 1 - ranksheet 
-Core java level 2 - ranksheet 
-javascript level 1 - ranksheet 
-servlet level 1 - ranksheet 
-introduction to cloud computing - alison Certifications 
-amazon ec2 - ranksheet 
-web technology basics level 1 - ranksheet 
-web technology basics level 2 - ranksheet 
-core java - ranksheet 
-java beginner certification – udemy 
-physics motion, speed and time – alison certifications 
-eclipseide for beginners – udemy certifications 
-how to use positive thinking to be more successful – udemy certifications 
-better virtual meetings – udemy certifications 
-how to use all java keywords – udemy certifications 
-write your first program – udemy certifications 
-javascript and jquery – udemy certifications 
-database design – udemy certifications 
-introduction to html – udemy certifications 
-physics gravity – Alison certifications 
-introduction to google tools – udemy certifications 
-photography – udemy certifications 
-stock trading – udemy certifications 
-got work – udemy certifications 
-personal finance obliterate debt and accumulate wealtha 
-understanding loans – udemy certifications 
-physics essentials 1 – udemy certifications 
-introduction to web and ecommerce user experience – udemy certifications 
-introducing brackets – udemy certifications 
-mass balance – udemy certifications 
-analysis of everyday things – udemy certifications 
-getting started as a web developer – udemy certifications 
-jquery – codeschool.com 
-code yourself an introduction to programming – coursera certifications 
-cables and connectors – udemy certifications 
-introduction to relational database – Stanford certifications 
-JSON data – Stanford certifications 
-Relational algebra – Stanford certifications 
-mastering ftp – udemy certifications 
-introduction to web architecture – udemy certifications 
-increase your persistence to reach your goals – udemy certifications 
-how to build a mobile app – udemycerifications 
-web-hosting 101 – udemy certifications 
-peer to peer lending – udemy certifications 
-introduction to networking for complete beginners – udemycertfications 
-tables in microsoft excel 2013 – udemy certifications 
-introduction to wireless communications – udemy certifications 
-introduction to typescript – edx certifications 
-beginnersyoutube academy – udemy certifications 
-introduction to java programming part 1 - edx certifications 
-ms word training for complete beginners – udemy certifications 
-windows unattended installation – udemy certifications 
-usingyoutube – alison certifications 
-1 hour html – udemy certifications 
-world war 1 – alisona certifications 
-introduction to the world of cisco for beginners – udemy certifications 
-ms outlook for complete beginners – udemy certifications 
-introduction to cloud computing – infosys certifications 
-amazon web services for entrepreneurs and bloggers – udemy certifications 
-1 hour css – udemy certifications 
-tcp http and spdy – udemy certifications 
-infinite banking – udemy certifications 
-git started with github – udemy certifications 
-how to start your day with morning rituals – udemy certifications 
-chrome tips and cool features – udemy certifications 
-inequality in the modern world – udemy certifications 
-lean finance for start-ups – udemy certifications 
-making sense of climate denial – edx certifications 
-office 365 - udemy certifications 
-silicon valley a beginner guide – udemy certifications 
-helpful tips – udemy certifications 
-software skill – udemy certifications 
-big data fundamentals – big data certifications 
-beginners email academy – udemy certifications 
-web hosting ninja – udemy certifications 
-generating revenue using social media – udemy certifications 
-introduction to nosql – big data certifications 
-introduction to programming part 2 – edx certifications 
-conversationalenglish skills – edx certifications 
-learn html5 from w3c – edx certifications 
-introduction to cloud computing – edx certifications 
-introduction to bootstrap – udemy certifications 
-communicating strategically – edx certifications 
-w3schools – bootstrap certifications 
-the best free resources to learn how to program – udemy certifications 
-the art of self awareness – udemy certifications 
-tax saving in animations – udemy certifications 
-html learning the basics – udemy certifications 
-secrets of happiness – udemy certifications  
-html5 from scratch – udemy certifications 
-getting the most from your smartphone - udemy certifications 
-tech tips for students - udemy certifications 
-the biology of water and health – edx certifications 
-fundamental of energy resources – canvas certifications 
-tech ebooks and readers - udemy certifications 
-powerful tips for windows - udemy certifications 
-introduction to bootstrap – edx certifications 
-introduction to programming with python – coursera certifications 
-introduction to mobile application android – edx certifications 
-the science of everyday thinking – edx certifications 
-creative problem solving – edx certifications 
-jsp – ranksheet certifications 
-android – ranksheet certifications 
-beast of productivity – udemy certifications 
-motivations – udemy certifications 
-economic analysis – udemy certifications 
-– stanford certifications 
-how to learn math - stanford certifications 
-simple java programming test – proprofs certifications 
-in java 1 - proprofs certifications 
-java programming - proprofs certifications 
-java programming 1 - proprofs certifications 
-frames - proprofs certifications 
-the wide world of mooc – udemy certifications 
-structure query language – udemy certifications 
-xml – stanford certifications 
-introduction to object oriented programming – udemy certifications 
-photography for beginners masterclass – udemy certifications 
-what is linkedin course – udemy certifications 
-introduction to jquery – edx certifications 
-starting mobile app - udemy certifications 
-introducing maven – udemy certifications 
-introduction to web analytics – udemy certifications 
-stuff to know before starting with mobile – udemy certifications 
-english at work in asia- edx certifications 
-introduction to web technologies client side – udemy certifications 
-getting startwith college – udemy certifications 
-the beginning guide to microsoft word 2013 – udemy certifications 
-vocabulary learner – udemy certifications 
-smartphone emerging technologies – coursera certifications 
-oracle certified associate java 7 programmer – oracle certifications 
-introduction to database and sql querying – udemy certifications 
-java multithreading – udemy certifications 
-predictions for the new age – udemy certifications 
-junit learn - udemycertifications 
-java jdbc - udemy certifications 
-introduction to learn t-sql – udemy certifications 
-introduction to basic database – udemy certifications 
-learn object oriented programming in java – udemy certifications 
-fundamental – mva certifications 
-basics of scrum, project and agile – udemy certifications 
-agile scrum – udemy certifications 
-xml for absolute beginners – udemy certifications 
-indexes and transactions – stanford certifications 
-free vs paid domain hosting install wordpress – udemy certifications 
-twitter absolute basics – udemy certifications 
-maven in 20 steps – udemy certifications 
-practice mathematics – udemy certifications 
-a practical introduction to responsive design – udemy certifications 
-css positioning – udemy certifications 
-introduction to css – coursera certifications 
-design thinking – canvas certifications 
-code your first website using html and css – udemy certifications 
-Mac Essentials – udemy certifications 
-Java fundamentals fast and simple – udemy certifications 
-master your mac – udemy certifications 
-operational intelligence with splunk – udemy certifications 
-how to setup website hosting – udemy certifications 
-comptia it fundamentals – comptia certifications 
-innovations the world's greatest – futurelearn certifications 
-short and sweet get started with git and github – udemy certifications 
-spring tutorial for beginners – udemy certifications 
-spring framework and dependency injection – udemy certifications 
-design thinking – udemy certifications 
-setup osx development environment – udemy certifications 
-java sorting algorithms – udemy certifications 
-java programming from scratch with eclipse – udemycertifications 
-big data and hadoop – udemy certifications 
-sql server for beginners – udemy certifications 
-Java exception handling and logging – udemy certifications 
-beginning oracle weblogic for beginners – udemy certifications 
-business communication enablement program 
-java ee made easy patterns 
-advance seo tactics and strategy 
-basic geometry 
-introduction to geometry 
-eclipse tutorial for beginners 
-a beginners's guide to microsoft words 
-javascript for absolute beginners 
-programming with java –chalkstreet 
-hands on sql for beginners 
-spring level 1 
-jsp level 2 
-spring 4 restful web service 
-focus mastery how to increase focus 
-a mini course on time management 
-ranksheet certified professional - spring level 1 
-ranksheet certified professional - hibernate level 1 
-camera confidence mini 
-overcome and develop any habit 
-angular js for beginners 
-introducing spring boot 
-restful web services with spring boot 
-a guide to raspberry pi 
-introduction to aws certified arcitect associate 
-agile software development 
-git for beginners 
+oops level 1, ranksheet, programming
+programming level 1, ranksheet, programming
+core java level 1, ranksheet, java
+computer technology basics level 1, ranksheet, computers
+oracle 9i sql level 1, ranksheet, database
+html level 1, ranksheet, html
+Core java level 2, ranksheet, java
+javascript level 1, ranksheet, javascript
+servlet level 1, ranksheet, java 
+introduction to cloud computing, alison, cloud 
+amazon ec2, ranksheet, aws 
+web technology basics level 1, ranksheet, web 
+web technology basics level 2, ranksheet, web 
+core java, ranksheet, java  
+java beginner certification, udemy, java 
+physics motion, speed and time, alison, physics 
+eclipse ide for beginners, udemy, tool
+how to use positive thinking to be more successful, udemy, motivation  
+better virtual meetings, udemy, technology  
+how to use all java keywords, udemy, java  
+write your first program, udemy, programming
+javascript and jquery ,udemy, javascript  
+database design ,udemy, database  
+introduction to html ,udemy, html  
+physics gravity ,Alison, physics  
+introduction to google tools ,udemy , tool
+photography ,udemy, photography
+stock trading ,udemy, other  
+got work ,udemy, other  
+personal finance obliterate debt and accumulate wealth, udemy, finance 
+understanding loans ,udemy, other  
+physics essentials 1 ,udemy, physics  
+introduction to web and ecommerce user experience ,udemy, other  
+introducing brackets ,udemy , tool
+mass balance ,udemy, physics  
+analysis of everyday things ,udemy, other  
+getting started as a web developer ,udemy, web  
+jquery ,codeschool, jquery 
+code yourself an introduction to programming ,coursera, programming
+cables and connectors ,udemy, electronics  
+introduction to relational database ,Stanford, database  
+JSON data ,Stanford, json  
+Relational algebra ,Stanford, database  
+mastering ftp ,udemy, tool  
+introduction to web architecture ,udemy, web 
+increase your persistence to reach your goals ,udemy, motivation
+how to build a mobile app ,udemy, mobile 
+web-hosting 101 ,udemy, web  
+peer to peer lending ,udemy, other  
+introduction to networking for complete beginners ,udemy, networking 
+tables in microsoft excel 2013 ,udemy, excel  
+introduction to wireless communications ,udemy, electronics  
+introduction to typescript ,edx, typescript  
+beginnersyoutube academy ,udemy, technology  
+introduction to java programming part 1 , edx, java
+ms word training for complete beginners ,udemy, word
+windows unattended installation ,udemy, windows  
+usingyoutube ,alison, technology  
+1 hour html ,udemy, html
+world war 1 ,alison, history
+introduction to the world of cisco for beginners ,udemy, cisco
+ms outlook for complete beginners ,udemy, outlook  
+introduction to cloud computing ,infosys, cloud  
+amazon web services for entrepreneurs and bloggers ,udemy, aws
+1 hour css ,udemy, css  
+tcp http and spdy ,udemy, networking  
+infinite banking ,udemy , other 
+git started with github ,udemy, git  
+how to start your day with morning rituals ,udemy, other  
+chrome tips and cool features ,udemy, chrome  
+inequality in the modern world ,udemy, history  
+lean finance for start,ups ,udemy, finance  
+making sense of climate denial ,edx, climate  
+office 365 , udemy, office  
+silicon valley a beginner guide ,udemy, other
+helpful tips ,udemy, motivation  
+software skill ,udemy, software  
+big data fundamentals ,big data, big data  
+beginners email academy ,udemy, email  
+web hosting ninja ,udemy, web  
+generating revenue using social media ,udemy, technology
+introduction to nosql ,big data, big data  
+introduction to programming part 2 ,edx, programming  
+conversationalenglish skills ,edx, english  
+learn html5 from w3c ,edx, html5  
+introduction to cloud computing ,edx, cloud  
+introduction to bootstrap ,udemy, bootstrap  
+communicating strategically ,edx, communication  
+bootstrap, w3schools, bootstrap  
+the best free resources to learn how to program ,udemy, programming  
+the art of self awareness ,udemy, motivation  
+tax saving in animations ,udemy, animations  
+html learning the basics ,udemy, html  
+secrets of happiness ,udemy, other   
+html5 from scratch ,udemy, html5  
+getting the most from your smartphone , udemy, mobile  
+tech tips for students , udemy, technology  
+the biology of water and health ,edx, science  
+fundamental of energy resources ,canvas, science  
+tech ebooks and readers , udemy, technology  
+powerful tips for windows , udemy, windows  
+introduction to bootstrap ,edx, bootstrap  
+introduction to programming with python ,coursera, python  
+introduction to mobile application android ,edx, android  
+the science of everyday thinking ,edx, science  
+creative problem solving ,edx, aptitude  
+jsp ,ranksheet, jsp  
+android ,ranksheet, android  
+beast of productivity ,udemy, productivity  
+motivations ,udemy, motivation  
+economic analysis ,udemy, finance    
+how to learn math , stanford, math  
+simple java programming test ,proprofs, java  
+in java 1 , proprofs, java  
+java programming , proprofs, java  
+java programming 1 , proprofs, java  
+frames , proprofs, html  
+the wide world of mooc ,udemy, other  
+structure query language ,udemy, database  
+xml ,stanford, xml  
+introduction to object oriented programming ,udemy, programming
+photography for beginners masterclass ,udemy, photography  
+what is linkedin course ,udemy, technology  
+introduction to jquery ,edx, jquery  
+starting mobile app , udemy, mobile  
+introducing maven ,udemy, maven  
+introduction to web analytics ,udemy, analytics  
+stuff to know before starting with mobile ,udemy, mobile  
+english at work in asia, edx, english  
+introduction to web technologies client side ,udemy, web  
+getting startwith college ,udemy, other  
+the beginning guide to microsoft word 2013 ,udemy, word  
+vocabulary learner ,udemy, english  
+smartphone emerging technologies ,coursera, mobile  
+oracle certified associate java 7 programmer ,oracle, javascript  
+introduction to database and sql querying ,udemy, database  
+java multithreading ,udemy, java  
+predictions for the new age ,udemy, science  
+junit learn , udemy, junit 
+java jdbc , udemy, java  
+introduction to learn t-sql ,udemy, database  
+introduction to basic database ,udemy, database
+learn object oriented programming in java ,udemy, programming  
+fundamental ,mva, technology  
+basics of scrum, project and agile ,udemy, scrum  
+agile scrum ,udemy, scrum  
+xml for absolute beginners ,udemy, xml  
+indexes and transactions ,stanford, database
+free vs paid domain hosting install wordpress ,udemy, wordpress  
+twitter absolute basics ,udemy, twitter  
+maven in 20 steps ,udemy, maven  
+practice mathematics ,udemy, math  
+a practical introduction to responsive design ,udemy, design  
+css positioning ,udemy, css  
+introduction to css ,coursera, css  
+design thinking ,canvas, design  
+code your first website using html and css ,udemy, html  
+Mac Essentials ,udemy, mac  
+Java fundamentals fast and simple ,udemy, java
+master your mac ,udemy, mac
+operational intelligence with splunk ,udemy, splunk  
+how to setup website hosting ,udemy, web  
+comptia it fundamentals ,comptia, it  
+innovations the world's greatest ,futurelearn, history  
+short and sweet get started with git and github ,udemy, git  
+spring tutorial for beginners ,udemy, spring  
+spring framework and dependency injection ,udemy, spring  
+design thinking ,udemy, design  
+setup osx development environment ,udemy, mac  
+java sorting algorithms ,udemy, java  
+java programming from scratch with eclipse ,udemy, java 
+big data and hadoop ,udemy, big data  
+sql server for beginners ,udemy, database  
+Java exception handling and logging ,udemy, java  
+beginning oracle weblogic for beginners ,udemy, database  
+business communication enablement program, infosys, english 
+java ee made easy patterns, program, java 
+advance seo tactics and strategy, seo, analytics 
+basic geometry, math, math 
+introduction to geometry, math, math 
+eclipse tutorial for beginners, udemy, tool 
+a beginners's guide to microsoft words, udemy, tool 
+javascript for absolute beginners, udemy, tool 
+programming with java , chalkstreet, java 
+hands on sql for beginners, udemy, database 
+spring level 1, ranksheet, spring 
+jsp level 2, ranksheet, spring 
+spring 4 restful web service, udemy, spring 
+focus mastery how to increase focus, udemy, motivation  
+a mini course on time management, udemy, motivation 
+spring level 1,  ranksheet, spring
+hibernate level 1, ranksheet, hibernate 
+camera confidence mini, udemy, photography 
+overcome and develop any habit, udemy, motivation 
+angular js for beginners, udemy, angularjs 
+introducing spring boot, udemy, spring 
+restful web services with spring boot, udemy, spring 
+a guide to raspberry pi, udemy, raspberrypi 
+introduction to aws certified arcitect associate, udemy, aws 
+agile software development, udemy, agile 
+git for beginners, udacity, git 
