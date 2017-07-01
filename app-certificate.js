@@ -12,11 +12,11 @@ textract.fromFileWithPath('certifications.docx',  {preserveLineBreaks:true}, fun
         bookNames.forEach(function(element) {
             var parts = element.split(",");
             var data = {
-                "certificationName": parts[0],
-                "certificationDate": "2017-01-09",
-                "certificationProvider": parts[1],
+                "certificationName": parts[0].trim(),
+                "certificationDate": parts[2].trim(),
+                "certificationProvider": parts[1].trim(),
                 "difficultyLevel": "medium",
-                "certificationType": parts[2],
+                "certificationType": parts[3].trim(),
                 "certificatePrint": false,
                 "revision": false
             };
